@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Dr. Yun Wu"
+title: "Prof. Zhigang Jia"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,43 +11,32 @@ redirect_from:
 
 Research Interests
 ======
-* Approximate Computing  
-* Embedded Systems & Reconfigurable Architectures
-* Energy-Efficient System Design
-* Computer Vision & Machine Learning  
-* Autonomous Vehicles & Sensor Fusion  
-* Hardware Security
+* Scientific and Engineering Computing 
+* Numerical Algebra
+* Image Processing
+* Face Recognition  
+* Intelligent Computing
 
 Work experience
 ======
-* **Lecturer (Assistant Professor)**  
-  Queen’s University Belfast, UK (Jun 2023 – Present)  
-  Teaching and research in embedded systems, computer vision, and hardware security
-
-* **Assistant Professor**  
-  University of Essex, UK (Jan 2023 – May 2023)  
-  Lecturer in computer vision and embedded systems
-
-* **Assistant Professor (Part-time)**  
-  Heriot-Watt University, UK (Jan 2022 – Jan 2023)  
-  Teaching: Parallel & Distributed Programming, Software Engineering, Industrial Programming
-
-* **Research Associate**  
-  Heriot-Watt University, UK (May 2019 – Jan 2023)  
-  Research on approximate co-processors for mathematical optimization, FPGA-based accelerators, and embedded DSP for Lidar
+* **Visiting Scholar**  
+  Department of Mathematics, University of Macau, Macau CN. (Nov 2019 – Dec 2019)  
+  Department of Mathematics, Hong Kong Baptist University, Hong Kong CN. (Aug 2019 – Oct 2019)
+  Department of Mathematics, Hong Kong Baptist University, Hong Kong CN. (Jan 2018 – Dec 2018)
+  School of Mathematics, University of Manchester, UK.(Aug 2013 – July 2014)
   
-* **Research Fellow**  
-  Cranfield University, UK (Mar 2018 – May 2019)  
-  Embedded systems for autonomous vehicle infrastructure and sensor fusion (Lidar, Radar, GPS)
+* **Professor**  
+  School of Mathematics and Statistics, Jiangsu Normal University, CN (July 2017 – Present) 
 
-* **Research Fellow**  
-  Queen’s University Belfast, UK  
-  - Dec 2016 – Feb 2018: Soft-core processor IP design on FPGA (Zedzynq 7020), 5G receiver prototyping  
-  - Jan 2014 – Nov 2016: Power-proportional computing on hybrid ARM/FPGA SoC (Zynq 7000)
+* **Professor (appointed by the university)**  
+  School of Mathematics and Statistics, Jiangsu Normal University, CN (July 2013 – June 2017) 
 
-* **Wireless Algorithm Engineer**  
-  ZTE Corporation, China (Dec 2008 – Aug 2010)  
-  System-level optimization for TD-SCDMA/TDD-LTE, parallel computing, and dynamic simulation
+* **Associate Professor (promoted ahead of schedule)**  
+  School of Mathematics and Statistics, Jiangsu Normal University, CN (Aug 2011 – June 2017)  
+
+* **Lecturer**  
+  School of Mathematics and Statistics, Jiangsu Normal University, CN (Aug 2009 – July 2011)
+
 
 Education
 ======
@@ -55,15 +44,7 @@ Education
   Queen’s University Belfast, UK (2010–2013)  
   Research: System-level design methodology for soft-core streaming processors on FPGA and MIMO receiver algorithm design
 
-* **M.Sc. in Radio Frequency Communication Systems**  
-  University of Southampton, UK (2007–2008)
-
-* **M.Eng. in Circuit & System**  
-  Hunan University, China (2004–2007)  
-
-* **B.Sc. in Electronic & Information Engineering**  
-  Dalian Minzu University, China (1999–2003)
-
+<!--  
 Awards and Recognition
 ======
 * Associate Fellowship, Higher Education Academy (2025)  
@@ -77,12 +58,12 @@ Service and leadership
 * Reviewer, IEEE Transactions on Computers  
 * Reviewer, IEEE Nanotechnology Magazine 
 * EPS (QUB) Summer Internship Supervisor
+  -->
   
 Skills
 ======
-* Programming: C/C++, Python, MATLAB, VHDL/Verilog, Java, OpenCL/OpenMP/OpenMPI
-* Tools: Vitis/Vivado, Git, Docker, LaTeX  
-* Platforms: FPGA, ARM, CUDA
+* Programming: C/C++, Python, MATLAB
+* Tools: Git, Docker, LaTeX  
 * Research: Numerical Analysis, System Optimization, Design Automation, Signal Processing
 
 Publications
@@ -90,12 +71,14 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--  
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+ <ul>{% for post in site.talks reversed %}
+   {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+  -->
   
 Teaching
 ======

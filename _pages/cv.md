@@ -20,28 +20,28 @@ Research Interests
 Work experience
 ======
 * **Visiting Scholar**  
-  Department of Mathematics, University of Macau, Macau, CN. (Nov 2019 – Dec 2019)\\ 
+  Department of Mathematics, University of Macau, Macau, CN. (Nov 2019 – Dec 2019) 
   Department of Mathematics, Hong Kong Baptist University, Hong Kong, CN. (Aug 2019 – Oct 2019)\\
   Department of Mathematics, Hong Kong Baptist University, Hong Kong, CN. (Jan 2018 – Dec 2018)\\
   School of Mathematics, University of Manchester, UK.(Aug 2013 – July 2014) 
   
 * **Professor**  
-  School of Mathematics and Statistics, Jiangsu Normal University, CN (July 2017 – Present) 
+  School of Mathematics and Statistics, Jiangsu Normal University, CN. (July 2017 – Present) 
 
 * **Professor (appointed by the university)**  
-  School of Mathematics and Statistics, Jiangsu Normal University, CN (July 2013 – June 2017) 
+  School of Mathematics and Statistics, Jiangsu Normal University, CN. (July 2013 – June 2017) 
 
 * **Associate Professor (promoted ahead of schedule)**  
-  School of Mathematics and Statistics, Jiangsu Normal University, CN (Aug 2011 – June 2017)  
+  School of Mathematics and Statistics, Jiangsu Normal University, CN. (Aug 2011 – June 2017)  
 
 * **Lecturer**  
-  School of Mathematics and Statistics, Jiangsu Normal University, CN (Aug 2009 – July 2011)
+  School of Mathematics and Statistics, Jiangsu Normal University, CN. (Aug 2009 – July 2011)
 
 
 Education
 ======
 * **Ph.D. in Computational Mathematics**  
-  Department of Mathematics, East China Normal University, CN (2006 – 2009)  
+  Department of Mathematics, East China Normal University, CN. (2006 – 2009)  
   Supervisor: Professor Wei Musheng
 
 <!--  

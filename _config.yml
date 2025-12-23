@@ -22,8 +22,8 @@ repository               : "Zhigang-JIA/Zhigang-JIA.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1523050575848.webp"
-  name             : "Pro. Zhigang Jia"
+  avatar           : "zhigangjia.jpg" # filename of avatar image placed in /images/, e.g. "avatar.png"
+  name             : "Prof. Zhigang Jia"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "A passionate reconfigurable computing researcher"
   location         : "Xuzhou, CN"
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=rfNxSIUAAAAJ"
   inspire-hep      : 
   impactstory      : 
-  orcid            : "https://orcid.org/0000-0001-9332-2858"
+  orcid            : "https://orcid.org"
   semantic         : 
   pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Zhigang-Jia-4"

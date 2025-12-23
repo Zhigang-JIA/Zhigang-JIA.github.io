@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhigang Jia ｜ JSNU"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhigang Jia"
 description              : &description "personal description"

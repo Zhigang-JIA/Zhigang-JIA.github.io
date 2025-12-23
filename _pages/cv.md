@@ -20,10 +20,10 @@ Research Interests
 Work experience
 ======
 * **Visiting Scholar**  
-  Department of Mathematics, University of Macau, Macau CN. (Nov 2019 – Dec 2019)  
-  Department of Mathematics, Hong Kong Baptist University, Hong Kong CN. (Aug 2019 – Oct 2019)
-  Department of Mathematics, Hong Kong Baptist University, Hong Kong CN. (Jan 2018 – Dec 2018)
-  School of Mathematics, University of Manchester, UK.(Aug 2013 – July 2014)
+  Department of Mathematics, University of Macau, Macau, CN. (Nov 2019 – Dec 2019)  
+  Department of Mathematics, Hong Kong Baptist University, Hong Kong, CN. (Aug 2019 – Oct 2019) 
+  Department of Mathematics, Hong Kong Baptist University, Hong Kong, CN. (Jan 2018 – Dec 2018) 
+  School of Mathematics, University of Manchester, UK.(Aug 2013 – July 2014) 
   
 * **Professor**  
   School of Mathematics and Statistics, Jiangsu Normal University, CN (July 2017 – Present) 
@@ -40,9 +40,9 @@ Work experience
 
 Education
 ======
-* **Ph.D. in Electronic, Electrical & Information Engineering**  
-  Queen’s University Belfast, UK (2010–2013)  
-  Research: System-level design methodology for soft-core streaming processors on FPGA and MIMO receiver algorithm design
+* **Ph.D. in Computational Mathematics**  
+  Department of Mathematics, East China Normal University, CN (2006 – 2009)  
+  Supervisor: Professor Wei Musheng
 
 <!--  
 Awards and Recognition
@@ -58,13 +58,14 @@ Service and leadership
 * Reviewer, IEEE Transactions on Computers  
 * Reviewer, IEEE Nanotechnology Magazine 
 * EPS (QUB) Summer Internship Supervisor
-  -->
+
   
 Skills
 ======
 * Programming: C/C++, Python, MATLAB
 * Tools: Git, Docker, LaTeX  
 * Research: Numerical Analysis, System Optimization, Design Automation, Signal Processing
+  -->
 
 Publications
 ======

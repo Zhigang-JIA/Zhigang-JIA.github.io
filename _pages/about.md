@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio "
+title: "Zhigang Jia 贾志刚 "
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +10,12 @@ redirect_from:
 I am a professor and doctoral supervisor at the School of Mathematics and Statistics, Jiangsu Normal University. My current research interests are numerical algebra and image processing.
 
 I received my Ph.D. from East China Normal University in July 2009. I have previously been a visiting scholar at the University of Manchester, Hong Kong Baptist University, and the University of Macau.
+
+Email : zhgjia@jsnu.edu.cn
+
+Office : Room 517, Building 6, Yunlong Campus, Jiangsu Normal University, Xuzhou, CN.
+
+Self-motivated students are welcome to join my research group. Please feel free to contact me.
 
 # Research Directions
 * Numerical Algebra

@@ -3,30 +3,30 @@
     "name": "Your Sidebar Name",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://wincle626.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://Zhigang-JIA.github.io",
+    "summary": "Currently employed at Jiangsu Normal University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Xuzhou",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=rfNxSIUAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/"
       },
       {
         "network": "GitHub",
-        "username": "wincle626",
-        "url": "https://github.com/wincle626"
+        "username": "Zhigang-JIA",
+        "url": "https://github.com/Zhigang-JIA"
       }
     ]
   },
@@ -34,10 +34,10 @@
   "education": [
     {
       "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "area": "Ph.D in computing mathematics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2009",
       "gpa": null,
       "courses": []
     },

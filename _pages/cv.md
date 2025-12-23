@@ -20,9 +20,9 @@ Research Interests
 Work experience
 ======
 * **Visiting Scholar**  
-  Department of Mathematics, University of Macau, Macau, CN. (Nov 2019 – Dec 2019)\ 
-  Department of Mathematics, Hong Kong Baptist University, Hong Kong, CN. (Aug 2019 – Oct 2019)\\
-  Department of Mathematics, Hong Kong Baptist University, Hong Kong, CN. (Jan 2018 – Dec 2018)\\
+  Department of Mathematics, University of Macau, Macau, CN. (Nov 2019 – Dec 2019)  
+  Department of Mathematics, Hong Kong Baptist University, Hong Kong, CN. (Aug 2019 – Oct 2019)  
+  Department of Mathematics, Hong Kong Baptist University, Hong Kong, CN. (Jan 2018 – Dec 2018)  
   School of Mathematics, University of Manchester, UK.(Aug 2013 – July 2014) 
   
 * **Professor**  

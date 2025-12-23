@@ -17,8 +17,8 @@ I received my Ph.D. from East China Normal University in July 2009. I have previ
 
 # Selcted Publications
 
-1. [A Novel Wasserstein Quaternion Generative Adversarial Network for Color Image Generation](https://zhigang-jia.github.io/publication/2025-12-09-WQGAN)
-2. [A New Cross-Space Total Variation Regularization Model for Color Image Restoration with Quaternion Blur Operator](https://zhigang-jia.github.io/publication/2025-01-29-CSTV.md)
+1. [A Novel Wasserstein Quaternion Generative Adversarial Network for Color Image Generation](https://zhigang-jia.github.io/publications/2025-12-09-WQGAN)
+2. [A New Cross-Space Total Variation Regularization Model for Color Image Restoration with Quaternion Blur Operator](https://zhigang-jia.github.io/publications/2025-01-29-CSTV.md)
 3. []
 4. []
 5. []

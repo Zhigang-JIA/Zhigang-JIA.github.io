@@ -12,7 +12,7 @@ redirect_from:
 Research Interests
 ======
 * Scientific and Engineering Computing 
-* Numerical Algebra
+* Numerical Linear Algebra
 * Image Processing
 * Face Recognition  
 * Intelligent Computing
